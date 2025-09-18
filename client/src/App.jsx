@@ -1,5 +1,5 @@
 import React from 'react'
-import NodeWebSocket from './components/NodeWebSocket'
+import NodeWebSocket from './NodeWebSocket'
 
 const App = () => {
   return (
